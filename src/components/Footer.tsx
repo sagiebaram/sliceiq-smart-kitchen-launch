@@ -6,7 +6,7 @@ const Footer = () => {
     <footer className="py-12 px-6 border-t border-border">
       <div className="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between gap-6">
         <div className="flex items-center gap-3">
-          <img src={logo} alt="SliceIQ" className="h-8" />
+          <img src={logo} alt="SliceIQ" className="h-12" />
         </div>
         <p className="text-sm text-muted-foreground">The smartest cut in your kitchen.</p>
         <div className="flex items-center gap-4">
